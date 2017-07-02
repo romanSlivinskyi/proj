@@ -6,8 +6,11 @@ namespace PR
 	int main()
 	{
   		std::cout << "hi" << std::endl;
+<<<<<<< Updated upstream
   		char a;	
  		std::cin >> a;
+=======
+>>>>>>> Stashed changes
   		return 0;
 	}
 }
