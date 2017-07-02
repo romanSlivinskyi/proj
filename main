@@ -3,6 +3,7 @@
 
 namespace PR
 {
+	void print() { std::cout << "Roman\n"; } 
 	int main()
 	{
   		std::cout << "hi" << std::endl;
