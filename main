@@ -1,11 +1,14 @@
 #include <iostream> //dev1
 #include <string> //dev2
 
-int main()
+namespace PR
 {
-  std::cout << "hi" << std::endl;
-  char a;	
-  std::cin >> a;
-  return 0;
+	int main()
+	{
+  		std::cout << "hi" << std::endl;
+  		char a;	
+ 		std::cin >> a;
+  		return 0;
+	}
 }
 
