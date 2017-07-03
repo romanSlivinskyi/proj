@@ -1,5 +1,7 @@
 #include <iostream>
 
+namespace people
+{
 class Person
 {
 public: 
@@ -10,3 +12,4 @@ public:
 private:
   std::string name_;
 } 
+}
